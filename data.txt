@@ -1,3 +1,0 @@
-code=109416
-name=bartschtim
-password=CoolerU23
